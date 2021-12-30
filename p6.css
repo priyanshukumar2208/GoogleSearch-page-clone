@@ -1,0 +1,302 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+.header{
+	padding: 10px 6px 6px 6px;
+	height: 60px;
+	width: 100%;
+	display: inline-block;
+}
+.h2 a{
+	float: right;
+	color: #ffffff;
+	background: #1a73e8;
+	margin: 0px 8px;
+	padding: 9px 23px;
+	border-radius: 4px;
+	width: 96px;
+	height: 36px;
+}
+.gapp{
+	float: right;
+	padding: 4px 4px 4px 4px;
+	height: 48px;
+	width: 48px;
+	display: flex;
+	justify-items: center;
+}
+.gapp button{
+	border: none;
+    padding: 8px 8px 8px 8px;
+    height: 35px;
+    width: 35px;
+    background: white;
+    justify-content: center;
+    display: flex;
+}
+.gapp button img{
+	height: 24px;
+	width: 24px;
+	padding-bottom: 6px;
+}
+.images{
+	float: right;
+	padding: 0px 0px 0px 15px;
+	width: 57.64px;
+	height: 24px;
+}
+.images a{
+	height: 24px;
+	width: 42.64px;
+	color: #000000DE;
+	font: 13px arial, sans-serif;
+}
+.gmail{
+	height: 24px;
+	width: 48.95px;
+	padding: 0px 0px 0px 15px;
+	float: right;
+}
+.gmail a{
+	height: 24px;
+	width: 33.95px;
+	font: 13px arial, sans-serif;
+	color: #000000DE;
+}
+.mainh{
+	padding: 0px 4px 0px 0px;
+	height: 48px;
+	width: 300px;
+	float: right;
+	display: inline-block;
+}
+.h2{
+	width: 160px;
+	height: 48px;
+	float: right;
+}
+.h1{
+	height: 24px;
+	width: 121.59px;
+	float: right;
+	padding: 9px 15px 0px 0px;
+}
+.logo{
+	width: 100%;
+	height: 92px;
+	display: flex;
+	justify-content: center;
+}
+.logo img{
+	width: 272px;
+	height: 92px;
+
+}
+.sicon img{
+	height: 14px;
+	width: 14px;
+}
+.sicon{
+	width: 33px;
+	height: 44px;
+	margin: -5x 0px 0px;
+	padding: 10px 13px 0px 0px;
+	float: right;
+}
+.sspace{
+	width: 487px;
+	height: 39px;
+	float: right;
+	padding: 8.5px 3px 0px 0px;
+}
+.sspace input{
+	width: 487px;
+	height: 34px;
+	margin: -37px 0px 0px;
+	border: none;
+}
+.sspace input:focus, text-area:focus, select:focus{
+	outline: none;
+}
+.gmic{
+	width: 40px;
+	height: 44px;
+	padding: 0px 8px;
+	float: right;
+	position: relative;
+	display: inline-block;
+}
+.gmic img{
+	width: 30px;
+	height: 30px;
+	padding-top: 2px;
+}
+.mains{
+	width: 100%;
+	height: 150px;
+	color: #222222;
+	font: 14px arial, sans-serif;
+	display: flex;
+	justify-content: center;
+	padding: 25px 25px 25px 25px;
+}
+.searchbar{
+	width: 590px;
+	height: 47px;
+	padding: 5px 8px 0px 14px;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 24px;
+	box-shadow: none;
+	border-color: #dfe1e5;
+	z-index: 3;
+}
+.cent{
+	width: 584px;
+	height: 140px;
+	margin: 0px 93.5px;
+	padding: 6px 0px 0px;
+}
+.flucky{
+	width: 100%;
+	height: 89px;
+	color: #222222;
+	padding: 18px 0px 0px;
+	font: 14px arial, sans-serif;
+}
+.center{
+	width: 584px;
+	height: 59px;
+	color: #222222;
+	font: 14px arial, sans-serif;
+	display: flex;
+	justify-content: center;
+}
+.btnone{
+	width: 127.41px;
+	height: 36px;
+	background: #F8F9FA;
+	margin: 11px 4px;
+	padding: 0px 16px;
+	border: none;
+}
+.btntwo{
+	width: 142.5px;
+	height: 36px;
+	background: #F8F9FA;
+	margin: 11px 4px;
+	padding: 0px 16px;
+	border: none;
+}
+.mainb{
+	width: 100%;
+	height: 219px;
+	padding: 25px 0px 0px 0px;
+}
+.maingo{
+	width: 100%;
+	height: 28px;
+	margin: 0px 0px 24px;
+	display: flex;
+	justify-content: center;
+}
+.maina{
+	width: 534px;
+	height: 28px;
+	color: #222222;
+	font: 13px arial, sans-serif;
+}
+.lang{
+	word-spacing: 5px;
+}
+.india{
+	width: 100%;
+	height: 48px;
+	color: #0000008A;
+	font: 15px arial, sans-serif;
+	padding: 15px 30px;
+	background: #F8F9FA;
+	border-bottom: 1px solid #dadce0;
+}
+.end{
+	width: 100%;
+	height: 45px;
+	padding: 0px 20px;
+	background: #F8F9FA;
+}
+.a{
+	float: left;
+	word-spacing: 15px;
+	padding: 15px;
+	font: 14px arial, sans-serif;
+	color: #70757A;
+}
+.b{
+	float: right;
+	word-spacing: 15px;
+	padding: 15px;
+	font: 14px arial, sans-serif;
+}
+.a font a{
+	color: #70757A;
+}
+.b font a{
+	color: #70757A;
+}
+.searchbar:hover{
+	box-shadow: 0px 0px 3px 2px #e4e1e1;
+}
+.images a:hover{
+	text-decoration: underline;
+}
+.gmail a:hover{
+	text-decoration: underline;
+}
+.gapp button:hover{
+	background: #2222;
+	border-radius: 25px;
+}
+.h2 a:hover{
+	background: #2b7de9;
+}
+.gmic .tooltip{
+	visibility: hidden;
+	width: 110px;
+	height: 25px;
+	background: black ;
+	color: white;
+	text-align: center;
+	position: absolute;
+	font-size: 11px;
+	font-weight: 550;
+	bottom: -25px;
+	right: -91%;
+	padding-top: 7px;
+}
+.gmic:hover .tooltip{
+	visibility: visible;
+}
+.gmic .tooltip::after {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent #222222 transparent;
+}
+.btnone:hover{
+	border: 1px solid #dadce0;
+	border-radius: 3px;
+}
+.btntwo:hover{
+	border: 1px solid #dadce0;
+	border-radius: 3px;
+}
+.lang a:hover{
+	text-decoration: underline;
+}

@@ -1,0 +1,163 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Noto Sans JP', sans-serif;
+	text-decoration: none;
+}
+.mainbdy{
+	width: 100%;
+	height: auto;
+	display: flex;
+	justify-content: center;
+}
+.center{
+	width: 448px;
+	height: auto;
+	padding-top: 60px;
+	display: block;
+}
+.mainbox{
+	border: 1px solid #dfe1e5;
+	width: 448px;
+	height: 500px;
+	border-radius: 10px;
+	padding: 47px 0px 0px 0px;
+}
+.logo{
+	width: 448px;
+	height: auto;
+	display: flex;
+	justify-content: center;
+	padding-bottom: 10px;
+}
+.si{
+	width: 448px;
+	height: auto;
+	font-size: 22px;
+	display: flex;
+	justify-content: center;
+	color: #202124;
+	padding-bottom: 8px;
+}	
+.tc{
+	width: 448px;
+	height: auto;
+	font-size: 16px;
+	font-weight: 550;
+	display: flex;
+	justify-content:center;
+	padding-bottom: 30px;
+}
+.input{
+	height: auto;
+	width: 448px;
+	display: flex;
+	justify-content: center;
+	padding-bottom: 4px;
+}
+.input1{
+	height: 60px;
+	width: 365px;
+	border: 1px solid #dfe1e5;
+	display: flex;
+	justify-content: center;
+	border-radius: 5px;
+}
+.input1 input:focus, text-area:focus, select:focus{
+	outline: none;
+}
+.input1 input{
+	border: none;
+	height: auto;
+	width: 330px;
+	font-size: 16px;
+	font-weight: 550;
+}
+.mainfe{
+	width: 448px;
+	height: auto;
+	display: flex;
+	justify-content: center;
+	padding-bottom: 45px;
+}
+.fe{
+	width: 365px;
+	height: auto;
+}
+.fe a{
+	font-size: 14px;
+	font-weight: 900;
+	color: #1a73e8;
+}
+.mainny{
+	width: 448px;
+	height: auto;
+	display: flex;
+	justify-content: center;
+	padding-bottom: 40px;
+}
+.nyc{
+	font-size: 14px;
+	width: 365px;
+	height: auto;
+	font-weight: 500;
+}
+.nyc font{
+	color: #5F6368;
+}
+.nyc font a{
+	color: #1a73e8;
+	font-weight: 900;
+}
+.mainca{
+	width: 448px;
+	height: auto;
+	display: flex;
+	justify-content: center;
+}
+.mainc{
+	width: 365px;
+	height: auto;
+	display: flex;
+	justify-content: center;
+}
+.ca{
+	width: 182.5px;
+	height: auto;
+}
+.nxt{
+	width: 182.5px;
+	height: auto;
+	padding-bottom: 7px;
+}
+.ca a{
+	color: #1a73e8;
+	font-size: 14px;
+	font-weight: 900;
+}
+.nxt a{
+	float: right;
+	font-weight: 900;
+	font-size: 13px;
+	color: white;
+	background: #1a73e8;
+	height: 35px;
+	width: 78px;
+	text-align: center;
+	border-radius: 5px;
+	padding-top: 5.5px;
+}
+.foot{
+	width: 448px;
+	height: auto;
+	display: flex;
+	justify-content: center;
+	padding-top: 24px;
+}
+#in12{
+	font-size: 12px;
+	color: #1a73e8;
+	margin-left: 8px;
+	padding: 0px 5px 0px 5px;
+}
